@@ -27,7 +27,7 @@ Objectives: The student will obtain an understanding of:
 
 # Grade Breakdown
 - Quizzes (15%) - There will be Weekly Online Quizzes throughout the course.
-- Midterm 1 (25%) and Midterm 2 (25%): The midterms will be on Week 5 and 9. The test will be based on readings and lectures. The exams are cumulative. The midterm exams will be given during the class period on Week 5 and 9.
+- Midterm 1 (25%) and Midterm 2 (25%): The test will be based on readings and lectures. The exams are cumulative.
 - Final Exam (35%): The exam will be held during the FSU Finals Week. Please refer to FSU final exam schedule. The final exam will cover all materials presented throughout the entire semester. 
 
 # Grades
